@@ -1,0 +1,51 @@
+.wrapper {
+	width: 70%;
+	height: 100vh;
+	margin: auto;
+	display: block;
+	overflow: hidden;
+	background-color: pink;
+}
+header{
+}
+.head-tile {
+	background: rgb(194, 192, 192);
+	padding: 1px 12px;
+}
+.head-menu{}
+nav{}
+ul {
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+ul li {
+	list-style: none;
+	border-right: 1px solid #333;
+	padding: 7px 15px;
+	background: magenta;
+}
+ul li a {
+	text-decoration: none;
+}
+.head-bottom{
+    display: block;
+	text-align: center;
+}
+.site-content{}
+.content-top{}
+.content-top p{}
+.site-content-middle{
+	display: flex;
+
+}
+.left-content {
+	width: 30%;
+}
+.left-content img{
+	width: 100%;
+}
+.right-content{
+	width: 70%;
+}
+.right-content p{}
